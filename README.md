@@ -1,2 +1,2 @@
-# The Hackers game
+# The Hackers Game
 ## Library for server communication
